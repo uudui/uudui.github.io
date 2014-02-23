@@ -1,0 +1,35 @@
+      <div class="content">
+        <section class='post'>
+        <h1>About</h1>
+        <h2>简介</h2>
+
+<p><img src="http://gravatar.com/avatar/5aec84cd0b5479a0d1d89b6ffa2a9a20.png?s=120" alt="Rei"></p>
+
+<p>黄增光，网名 Rei，广西梧州人，现居北京。Web 开发者，擅长 Ruby。</p>
+
+<h2>经历</h2>
+
+<h3>2012-12 ~ 2013-09 Writings.io</h3>
+
+<p>Writings.io 是一个多人写作平台，特点是简洁的管理后台和可视化编辑器，于2013年9月宣布项目失败，代码开源于 <a href="https://github.com/chloerei/writings">https://github.com/chloerei/writings</a>。</p>
+
+<h3>2011-04 ~ 2012-12 CSDN</h3>
+
+<p>在 CSDN 任职 Ruby 工程师，作为主要成员参与 ITEYE 网站维护和 CSDN 论坛重写。</p>
+
+<h3>2011-02 ~ ? CodeCampo.com</h3>
+
+<p>CodeCampo.com 是一个开源论坛，代码开源于 <a href="https://github.com/chloerei/code_campo">https://github.com/chloerei/code_campo</a>，论坛处于静默状态。</p>
+
+<h2>足迹</h2>
+
+<h3>Github</h3>
+
+<p><a href="https://github.com/chloerei">https://github.com/chloerei</a></p>
+
+<h3>Ruby China</h3>
+
+<p><a href="http://ruby-china.org/rei">http://ruby-china.org/rei</a></p>
+
+        </section>
+      </div>
