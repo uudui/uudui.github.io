@@ -131,7 +131,7 @@ section.post {
     width: 120px;
     height: 120px;
     border: 1px solid #efefef;
-    right: 80px;
+    right: 100px;
     border-radius: 5px; }
   section.post em strong {
     background-color: #ffffee;
